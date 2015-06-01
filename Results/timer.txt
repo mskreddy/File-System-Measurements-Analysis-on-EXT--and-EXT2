@@ -1,0 +1,2 @@
+Time of rdtsc 10001477.447925 microseconds
+Time of gettimeofday 10012361 microseconds
